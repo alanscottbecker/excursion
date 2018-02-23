@@ -1,0 +1,21 @@
+* {
+  font-family: Verdana;
+}
+
+body{
+  background-color: black
+}
+
+.topline {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+
+.link {
+  font-size: 16px;
+  font-weight: normal;
+  color: aquamarine;
+  text-align: center;
+}
