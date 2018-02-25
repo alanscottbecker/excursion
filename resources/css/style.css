@@ -3,7 +3,8 @@
 }
 
 body{
-  background-color: black
+  background-color: black;
+  text-align: center;
 }
 
 .topline {
@@ -13,16 +14,13 @@ body{
   text-align: center;
 }
 
-.link {
+a {
   font-size: 16px;
   font-weight: normal;
   color: aquamarine;
   text-align: center;
 }
 
-a {
-  font-size: 16px;
-  font-weight: normal;
-  color: aquamarine;
-  text-align: center;
+.media {
+  align-items: center
 }
