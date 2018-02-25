@@ -24,3 +24,22 @@ a {
 .media {
   align-items: center
 }
+
+#tagline {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+#overview {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+
+#copyright {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+  text-align: right;
+}
